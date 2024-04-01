@@ -26,11 +26,15 @@
 - If this project is useful, please like (star) to add motivation for me. 
 - I am happy to share my knowledge and projects to people. I am willing to spend more time, enthusiasm and a well-groomed appearance for these projects. Thank you for your help
 # Demo Examples: 
+- detect edges with solbel image  
 ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/623139ac-a058-400d-8640-9d5ab28a6e9c)
 ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/544477b9-dc6d-463c-8a61-18ac4502275d)
 ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/ea29bee4-9b0a-467c-b550-043cddb91089)
 
+- histogram balance to increase quality of 'baby image'  
 ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/0f2f48a6-7242-416a-aa8f-72c1a1a690db)
 ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/0f3fafd5-4971-4959-857b-f658c01aaed5)
 ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/bf0afcd0-c38b-4c8a-8db3-6e0530750737)
 ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/c356b232-30c9-4cdd-a9cc-b95f1f82ec4b)
+
+
