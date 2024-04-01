@@ -5,11 +5,11 @@
 
 ### about 
 - This is the project where we develop a library about image operations. In the first version of the library we support functions like: 
-- Load image from file (read, resize, and scale image as well as convert mode of image) 
-- Besides, the library help compute and plot a lot of information about images such as: plot image, plot histogram of image, compute distance similar between 2 image matrix. 
-- Specially, support extract some feature types from the image such as: histogram feature, sobel sum feature, hog feature. 
-- It also supports im2im functions such as: to sobel image, hog image equalize (adaptive) histogram image. 
-- We also build a FileOps class to help perform operations with files as list all files in the root directory. 
+	- Load image from file (read, resize, and scale image as well as convert mode of image) 
+	- Besides, the library help compute and plot a lot of information about images such as: plot image, plot histogram of image, compute distance similar between 2 image matrix. 
+	- Specially, support extract some feature types from the image such as: histogram feature, sobel sum feature, hog feature. 
+	- It also supports im2im functions such as: to sobel image, hog image equalize (adaptive) histogram image. 
+	- We also build a FileOps class to help perform operations with files as list all files in the root directory. 
 ### show-off 
 - [x] Video 
 # Repo Structure:  
