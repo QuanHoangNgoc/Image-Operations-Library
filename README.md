@@ -12,7 +12,7 @@
 	- We also build a FileOps class to help perform operations with files as list all files in the root directory. 
 ### show-off 
 - [x] Video
-- [x] Kaggle Notebook 
+- [x] Kaggle Notebook [imlib demo](https://www.kaggle.com/code/quanhoangngoc/imlib/notebook)
 # Repo Structure:  
 - LIB: contains all development progress including the library module. 
 # Pipeline:   
