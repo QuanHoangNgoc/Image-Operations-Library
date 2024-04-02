@@ -11,7 +11,7 @@
 	- It also supports im2im functions such as: to *sobel image, hog image, and equalize (adaptive) histogram image*. 
 	- We also build a FileOps class to help perform operations with files as list all files in the root directory. 
 ### show-off 
-- [x] Video
+- [x] Video [Youtube Demo](https://youtu.be/EcjI4TKktR4?feature=shared)
 - [x] Kaggle Notebook [imlib demo](https://www.kaggle.com/code/quanhoangngoc/imlib/notebook)
 # Repo Structure:  
 - LIB: contains all development progress including the library module. 
