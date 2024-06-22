@@ -4,8 +4,6 @@
 - Contribute for Learning and Sharing 
 - _HK2_, 2024
 
-![icon](https://example.com/icon.png) <!-- Replace with your icon URL -->
-
 ### About 
 Welcome to the Image Operations Library, where we empower developers with robust image processing capabilities. Our initial release includes essential functions such as:
 - **Load Image from File:** Read, resize, scale, and convert image modes.
