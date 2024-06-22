@@ -1,40 +1,44 @@
 # Introduction
-- Quan Hoang Ngoc
-- Contribute for Learning and Sharing 
-- _HK2_, 2024
+- **Quan Hoang Ngoc**
+- **Contributing to Learning and Sharing**
+- **_HK2_, 2024**
 
-### about 
-- This is the project where we develop a library about **image operations**. In the first version of the library we support functions like: 
-	- *Load image from file* (read, resize, and scale image as well as convert mode of image) 
-	- Besides, the library helps compute and plot a lot of information about images such as: plot image, plot histogram of image, compute distance similar between 2 image matrixs. 
-	- Specially, support extract some feature types from the image such as: *histogram feature, sobel sum feature, and hog feature*. 
-	- It also supports im2im functions such as: to *sobel image, hog image, and equalize (adaptive) histogram image*. 
-	- We also build a FileOps class to help perform operations with files as list all files in the root directory. 
-### show-off 
-- [x] Video [Youtube Demo](https://youtu.be/EcjI4TKktR4?feature=shared)
-- [x] Kaggle Notebook [imlib demo](https://www.kaggle.com/code/quanhoangngoc/imlib/notebook)
-# Repo Structure:  
-- LIB: contains all development progress including the library module. 
-# Pipeline:   
-- Build 3 classes with corresponding functions: 
-	- ut: to send message, note while running as well as watch to debug
-	- Imops: the main class of thís module 
-	- FileOps: support some ops with files. 
-# How to install this project: 
-- Clone the LIB branch of this repository and then import *lib.py* to use functions of the module. 
-# Donate: 
-- If this project is useful, please like (star) to add motivation for me. 
-- I am happy to share my knowledge and projects to people. I am willing to spend more time, enthusiasm and a well-groomed appearance for these projects. Thank you for your help
-# Demo Examples: 
-- detect edges with solbel image  
-![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/623139ac-a058-400d-8640-9d5ab28a6e9c)
-![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/544477b9-dc6d-463c-8a61-18ac4502275d)
-![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/ea29bee4-9b0a-467c-b550-043cddb91089)
+### About
+This project focuses on the development of a sophisticated **image operations library**. In its initial release, the library offers comprehensive functionalities, including:
+- **Image Loading**: Capability to read, resize, scale, and convert image modes.
+- **Image Analysis**: Tools to compute and visualize image information such as image plotting, histogram plotting, and distance computation between image matrices.
+- **Feature Extraction**: Support for extracting various image features like histogram features, Sobel sum features, and HOG features.
+- **Image Transformations**: Includes functionalities to convert images to Sobel images, HOG images, and perform adaptive histogram equalization.
+- **File Operations**: Introduces the FileOps class to facilitate operations with files, including listing all files in a specified directory.
 
-- histogram balance to increase quality of 'baby image'  
-![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/0f2f48a6-7242-416a-aa8f-72c1a1a690db)
-![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/0f3fafd5-4971-4959-857b-f658c01aaed5)
-![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/bf0afcd0-c38b-4c8a-8db3-6e0530750737)
-![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/c356b232-30c9-4cdd-a9cc-b95f1f82ec4b)
+### Show-off
+- [x] **Watch the [Youtube Demo](https://youtu.be/EcjI4TKktR4?feature=shared)**
+- [x] **Explore the [Kaggle Notebook](https://www.kaggle.com/code/quanhoangngoc/imlib/notebook)** for a hands-on demonstration.
 
+# Repo Structure
+- **LIB**: Central repository for all developmental progress, housing the primary library module.
 
+# Pipeline
+- **Classes and Functions**: Organized into three key classes:
+  - **ut**: Facilitates messaging, notes during execution, and debugging.
+  - **Imops**: Core module for comprehensive image operations.
+  - **FileOps**: Provides support for various file-related operations.
+
+# How to Install This Project
+- **Clone** the **LIB** branch of this repository and **import *lib.py*** to begin utilizing the module's functionalities.
+
+# Donate
+- If you find this project valuable, please **star** it to provide motivation.
+- I am passionate about sharing knowledge and contributing to meaningful projects. Your support encourages me to dedicate more time and effort towards enhancing this library. Thank you for your contribution.
+
+# Demo Examples
+- **Edge Detection with Sobel Image**
+  ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/623139ac-a058-400d-8640-9d5ab28a6e9c)
+  ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/544477b9-dc6d-463c-8a61-18ac4502275d)
+  ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/ea29bee4-9b0a-467c-b550-043cddb91089)
+
+- **Histogram Equalization to Enhance Image Quality**
+  ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/0f2f48a6-7242-416a-aa8f-72c1a1a690db)
+  ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/0f3fafd5-4971-4959-857b-f658c01aaed5)
+  ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/bf0afcd0-c38b-4c8a-8db3-6e0530750737)
+  ![image](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/c356b232-30c9-4cdd-a9cc-b95f1f82ec4b)
