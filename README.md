@@ -37,8 +37,8 @@ Your support motivates us to continually enhance our library:
 
 # Demo Examples 
 Explore practical examples showcasing our library's capabilities:
-
 - **Edge Detection using Sobel Image**
+
   ![Sobel Image Example 1](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/623139ac-a058-400d-8640-9d5ab28a6e9c)
   ![Sobel Image Example 2](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/544477b9-dc6d-463c-8a61-18ac4502275d)
   ![Sobel Image Example 3](https://github.com/QuanHoangNgoc/Image_Ops_Lib/assets/143282734/ea29bee4-9b0a-467c-b550-043cddb91089)
