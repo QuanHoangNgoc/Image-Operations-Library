@@ -4,7 +4,6 @@
 - Contribute for Learning and Sharing 
 - _HK2_, 2024
 
-![icon](https://example.com/icon.png) <!-- Replace with your icon URL -->
 
 ### About 
 Welcome to the Image Operations Library, a comprehensive toolkit designed to streamline image processing tasks. Our library includes a rich set of functionalities to manipulate, analyze, and transform images effectively.
