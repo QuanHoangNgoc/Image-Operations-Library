@@ -68,9 +68,7 @@ Throughout this project, we gained deeper insights into the challenges of image 
 
 2. **Install Required Packages:**
    Ensure you have Python installed, then install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 3. **Import and Use the Library:**
    Start using the library's functionalities by importing `lib.py` into your project:
@@ -85,11 +83,6 @@ from lib import Imops
 
 # Initialize the Imops class
 im_ops = Imops()
-
-# Load and process an image
-image = im_ops.load_image('example.jpg')
-edges = im_ops.sobel_filter(image)
-im_ops.plot_image(edges, title="Sobel Edge Detection")
 ```
 
 ## License
