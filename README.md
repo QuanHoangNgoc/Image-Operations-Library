@@ -1,5 +1,3 @@
----
-
 # 🎨 Image Operations Library
 
 **Author:** Quan Hoang Ngoc  
