@@ -1,6 +1,4 @@
----
-
-# 🌟 Image Operations Library
+# 🌟 **Image Operations Library**
 
 **Author:** Quan Hoang Ngoc  
 **Purpose:** Contributing for Learning and Sharing  
