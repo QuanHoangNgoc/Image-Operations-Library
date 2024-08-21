@@ -16,7 +16,7 @@ In the ever-evolving world of image processing, having a reliable and versatile 
 
 This library is ideal for developers, data scientists, and researchers who require robust image processing tools. It's designed to be both user-friendly for beginners and flexible enough for advanced users. Some practical examples and demos, including edge detection and histogram balancing, demonstrate the library's capabilities, making it easier to understand and apply in real-world scenarios.
 
-- **Demo Video:** [Watch on YouTube](https://youtu.be/EcjI4TKktR4?feature=shared)
+- **Demo Video:** **[Watch on YouTube](https://youtu.be/EcjI4TKktR4?feature=shared)**
 - **Kaggle Notebook:** [Explore imlib Demo](https://www.kaggle.com/code/quanhoangngoc/imlib/notebook)
 
 ## How did we do it?
